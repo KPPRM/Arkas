@@ -1,0 +1,37 @@
+Version 5.0
+Temperature variations created by eccentricity
+Seasonal temperature variations
+Temperature changes based off latitude
+Temperature changes based off time of day
+Internal mod indexing (just compatibility stuff)
+Fixes for Kras and Vin
+Biomes for Kras and Vin (each of them having a biome named after who suggested the name for the moon)
+EVE support!
+NEW 'Modular mod' system: add extra features using the Arkas/Expansions directory! Add moons if you want, and add clouds with three different resolutions!
+New original Arkas cloudmap in the style of SVE and AVP! Available in 2K, 4K or even 8K!
+
+Version 3.0
+- Updated to 1.1.3
+- Fixed terrain-vanishing issue with the moons
+- Fixed shininess on Arkas
+
+Version 2.1
+- Remade the moons
+
+Version 2.0
+- 1.1.2 release
+- Added 2 moons - Vin and Kras, can be removed by deleting the folder Arkas/Moons
+- E.V.E support removed, will be re-added later.
+
+Version 1.0.1
+- Updated config for 1.0.5
+- Added terrain scatter
+- Improved FogColorRamp
+- Custom terrain textures
+- Hand-made Normal map for better ScaledSpace
+- Various other bugs fixed, such as a nasty bug in ScaledSpace-PQSTerrain transition
+
+Version 1.0 (TWG Dev version release)
+- Added custom surface textures
+- (Untested, but should work) Support for E.V.E rebooted edition (only low-cover config made)
+- Terrain scatter (rocks)
