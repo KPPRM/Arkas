@@ -1,14 +1,9 @@
 # Arkas
 
-First off, Arkas belongs to user CoriW on the KSP Forums, I only maintain the mod in his/her absence with their permission.
-
-Hello, thank you for reading this, as some users may skip past this file and get themselves into trouble.
-
-But you all aren't here for this stuff, let's get to what you all came for - install instructions.
-
-
+Arkas Was created by CoriW on the KSP forums and was maintained for a time under TheWhiteGuardian.
 
 				Installing the mod itself
+These Instructions only apply to releases and not the master branch.
 1. In the download, go into the 'Files' folder, then into the folder named 'Mod'
 2. In this 'Mod' folder, you will find a folder named 'Arkas'. Got it? Okay.
 3. Next, you need to locate your KSP directory, the folder with the KSP.exe file in it. Found the folder? Great! Make sure to memorize the location of this folder as we're going to need it a lot.
@@ -57,16 +52,3 @@ VERY IMPORTANT! If you do not install Kras, go inside the EVE_Res folder you jus
 
 Alright, that should do it! Have fun exploring!
 - The White Guardian
-
-License:
-The custom surface and cloud textures belong to The White Guardian on the KSP forums and may not be used in packs
-other than those made by The White Guardian without permission from The White Guardian.
-
-Arkas' Colormap, Heightmap and biomemap for for arkas and 'Cori Canyons' on moon Kras and concept of Arkas  to the original creator of the mod, CoriW
-http://forum.kerbalspaceprogram.com/index.php?/profile/57866-coriw/
-
-The biome 'Daze Canyons' on moon Kras is a reference to sDaZe, who suggested the name 'Kras' for a moon back on the original Arkas thread.
-http://forum.kerbalspaceprogram.com/index.php?/profile/111181-sdaze/
-
-The biome 'Valleys Of Fungus'  on moon Vin is a reference to FungusForge, who suggested the name 'Vin' for a moon back on the original Arkas thread.
-http://forum.kerbalspaceprogram.com/index.php?/profile/148313-fungusforge/
